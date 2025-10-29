@@ -1,0 +1,4 @@
+# Minimal ML requirements placeholder
+scikit-learn
+pandas
+joblib
